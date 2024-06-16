@@ -1,0 +1,20 @@
+X0101;Lucas;9th Chapel Roal;iPhone 6s;3;600.0;Delivered
+X0102;Billkin;23rd Orchid Road;iPhone 15;1;4300.0;Pending
+X0103;Eunwo;1st Avenue;MacBook Air 13;1;3500.0;Delivered
+X0104;Metawin;7th Main Street;iPad Pro 5;2;4200.0;Cancelled
+X0105;Jacob;5th Convent Street;iPhone Xs Max;3;1200.0;Shipped
+X0106;Elordi;4th Avenue;MacBook Pro 13;2;4500.0;Shipped
+X0107;Shawn;56th Kiara Road;MacBook Pro 15;1;5700.0;Delivered
+X0108;Mendes;3rd Bell Hill;iPad Air 4;3;3800.0;Delivered
+X0109;Clarke;10th Mt Weather;iPad Air 4;1;3800.0;Shipped
+X0110;Griffin;87th Hill Road;iPhone 13 Pro;3;3200.0;Cancelled
+X0111;Bellamy;6th Star Hill;iPhone 15 Plus;1;4500.0;Cancelled
+X0112;Blake;52nd First World Street;AirPods Max;2;2100.0;Shipped
+X0113;Murphy;66th Sakura Chapel;iPod Touch 6;3;900.0;Delivered
+X0114;Raven;17th Hill Side;MacBook Air 15;1;4100.0;Delivered
+X0115;Hope;32nd Twin Street;AirPods Pro 3;1;1300.0;Pending
+X0116;Monty;22nd Holland Ground;AirPods 2;4;700.0;Pending
+X0117;Jasper;19th Venue Royale;iPhone 14 Plus;5;3600.0;Pending
+X0118;Finn;4th Avenue;iPhone 15 Pro Max;2;6000.0;Delivered
+X0119;Octavia;48th Main Street;iPhone 12 Pro;2;3000.0;Shipped
+X0120;Echo;20th Forest Hill;AirPods Max;3;2100.0;Delivered
